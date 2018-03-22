@@ -7,6 +7,6 @@
 # end
 
 def square_array(array)
-  array.collect 
-    arr**2
+  array.collect  **2
+    
 end
